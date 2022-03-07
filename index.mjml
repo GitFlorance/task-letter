@@ -25,7 +25,7 @@
                 </mj-image>
             </mj-column>
             <mj-column padding="0" width="182px">
-                <mj-image padding="0" height="188px" width="182px" align="right" src=".//png/person.png">
+                <mj-image padding="0" height="188px" width="182px" align="right" src=".//png/person.gif">
                 </mj-image>
             </mj-column>
         </mj-section>
@@ -33,24 +33,31 @@
         <mj-section background-color="#C2002E" padding="0">
             <mj-column width="540px" background-color="white" border-radius="10px 10px 10px 10px">
                 <mj-table>
-                    <tr background-color="#76BC34" style="border-bottom:1px solid #ecedee;text-align:left;padding:15px 0;">
-                        <th style="padding: 0 15px 0 0;">Товар</th>
+                    <tr background-color="#76BC34" padding="0">
+                        <th width="11%" style="padding: 0 15px 0 0;">Товар</th>
                         <th style="padding: 0 15px 0 0;"></th>
                         <th style="padding: 0 15px;">Колиство</th>
                         <th style="padding: 0 0 0 15px;">Стоимость</th>
                     </tr>
-                    <tr>
+                    <tr padding="0">
                         <td style="padding: 0 15px 0 0;">
+                            <img src=".//png/image-38.jpg" alt="logo" width="120px" align="left" padding-left="0px">
                         </td>
-                        <td style="padding: 0 15px;">
+                        <td style="padding: 0 15px;" href="https://www.eldorado.ru/">
+                            Ultra HD (4K) OLED телевизор 55" Sony KD-55A8
                         </td>
-                        <td style="padding: 0 0 0 15px;">
-                        </td>
+                        <td style="padding: 0 0 0 15px;">1</td>
+                        <td style="padding: 0 0 0 15px;">35 990 р.</td>
                     </tr>
                     <tr>
-                        <td style="padding: 0 15px 0 0;">1995</td>
-                        <td style="padding: 0 15px;">JavaScript</td>
-                        <td style="padding: 0 0 0 15px;">Scheme, Self</td>
+                        <td style="padding: 0 15px 0 0;">
+                            <img src=".//png/image-40.jpg" alt="logo" width="120px" align="left" padding-left="0px">
+                        </td>
+                        <td style="padding: 0 15px;" href="https://www.eldorado.ru/">
+                            Робот-пылесос Tefal X-plorer Serie 60 (RG7455WH)
+                        </td>
+                        <td style="padding: 0 0 0 15px;">1</td>
+                        <td style="padding: 0 0 0 15px;">35 990 р.</td>
                     </tr>
                 </mj-table>
                
