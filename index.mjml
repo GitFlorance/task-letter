@@ -7,6 +7,7 @@
         </mj-style>
     </mj-head>
     <mj-body width="600px" padding="0">
+
         <mj-section background-color="white" padding="0">
             <mj-column width="65%" padding="0">
                 <mj-image href="https://www.eldorado.ru/" src="https://static.eldorado.ru/espa/1.35.32-EJLbpyZgqBcxrlEbFziCi/static_spa/assets/logo.0.107e1872.svg" alt="logo" width="120px" align="left" padding-left="0px"></mj-image>
@@ -30,37 +31,128 @@
             </mj-column>
         </mj-section>
 
+
         <mj-section background-color="#C2002E" padding="0">
-            <mj-column width="540px" background-color="white" border-radius="10px 10px 10px 10px">
+            <mj-column width="540px" background-color="#76BC34" border-radius="10px 10px 0px 0px">
                 <mj-table>
                     <tr background-color="#76BC34" padding="0">
-                        <th width="11%" style="padding: 0 15px 0 0;">Товар</th>
-                        <th style="padding: 0 15px 0 0;"></th>
-                        <th style="padding: 0 15px;">Колиство</th>
-                        <th style="padding: 0 0 0 15px;">Стоимость</th>
-                    </tr>
-                    <tr padding="0">
-                        <td style="padding: 0 15px 0 0;">
-                            <img src=".//png/image-38.jpg" alt="logo" width="120px" align="left" padding-left="0px">
-                        </td>
-                        <td style="padding: 0 15px;" href="https://www.eldorado.ru/">
-                            Ultra HD (4K) OLED телевизор 55" Sony KD-55A8
-                        </td>
-                        <td style="padding: 0 0 0 15px;">1</td>
-                        <td style="padding: 0 0 0 15px;">35 990 р.</td>
-                    </tr>
-                    <tr>
-                        <td style="padding: 0 15px 0 0;">
-                            <img src=".//png/image-40.jpg" alt="logo" width="120px" align="left" padding-left="0px">
-                        </td>
-                        <td style="padding: 0 15px;" href="https://www.eldorado.ru/">
-                            Робот-пылесос Tefal X-plorer Serie 60 (RG7455WH)
-                        </td>
-                        <td style="padding: 0 0 0 15px;">1</td>
-                        <td style="padding: 0 0 0 15px;">35 990 р.</td>
+                        <th width="20%" style="padding: 0 15px 0 0;">Товар</th>
+                        <th width="40%" style="padding: 0 15px 0 0;"></th>
+                        <th width="20%" style="padding: 0 15px;">Колиство</th>
+                        <th width="20%" style="padding: 0 0 0 15px;">Стоимость</th>
                     </tr>
                 </mj-table>
-               
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#C2002E" padding="0">
+            <mj-column width="540px" background-color="white">
+                <mj-table>
+                    <tr padding="0">
+                        <td width="20%" style="padding: 0 10px 0 0;">
+                            <img src=".//png/image-38.jpg" alt="logo" width="120px" align="left" padding-left="0px">
+                        </td>
+                        <td width="40%" style="padding: 0 10px;" href="https://www.eldorado.ru/">
+                            Ultra HD (4K) OLED телевизор 55" Sony KD-55A8
+                        </td>
+                        <td width="20%" style="padding: 0 0 0 15px;">1</td>
+                        <td width="20%" style="padding: 0 0 0 10px;">35 990 р.</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 0 10px 0 0;">
+                            <img src=".//png/image-40.jpg" alt="logo" width="120px" align="left" padding-left="0px">
+                        </td>
+                        <td style="padding: 0 10px;" href="https://www.eldorado.ru/">
+                            Робот-пылесос Tefal X-plorer Serie 60 (RG7455WH)
+                        </td>
+                        <td style="padding: 0 0 0 10px;">1</td>
+                        <td style="padding: 0 0 0 10px;">35 990 р.</td>
+                    </tr>
+                </mj-table>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#C2002E" padding="0">
+            <mj-column width="540px" background-color="white">
+                <mj-table>
+                    <tr padding="0">
+                        <td width="8%" style="padding: 0 10px 0 0;">
+                            <img height="12px" white="16px" src=".//png/group-9.png" alt="logo" width="120px" align="left" padding-left="0px">
+                        </td>
+                        <td width="72%" style="padding: 0 10px;" href="https://www.eldorado.ru/">
+                            доставка
+                        </td>
+                        <td width="20%" style="padding: 0 05px;" href="https://www.eldorado.ru/">
+                            290 р.
+                        </td>
+                    </tr>
+                </mj-table>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#C2002E" padding="0">
+            <mj-column width="540px" background-color="white">
+                <mj-table>
+                    <tr padding="0">
+                        <td width="80%" style="padding: 0 10px;" href="https://www.eldorado.ru/">
+                            К ОПЛАТЕ:
+                        </td>
+                        <td width="20%" style="padding: 0 10px;" href="https://www.eldorado.ru/">
+                            56 270 р.
+                        </td>
+                    </tr>
+                </mj-table>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#C2002E" padding="0">
+            <mj-column width="540px" background-color="#F3F3F3">
+                <mj-table>
+                    <tr padding="0">
+                        <td width="10%" style="padding: 0 10px;" href="https://www.eldorado.ru/">
+                            <img height="12px" white="16px" src=".//png/user-2.png" alt="logo" width="120px" align="left" padding-left="0px">
+                        </td>
+                        <td width="40%" style="padding: 0 10px;" href="https://www.eldorado.ru/">
+                            Получатель <d> Иван Иванович Иванов
+                        </td>
+                        <td width="10%" style="padding: 0 10px;" href="https://www.eldorado.ru/">
+                            <img height="12px" white="16px" src=".//png/group-9.png" alt="logo" width="120px" align="left" padding-left="0px">
+                        </td>
+                        <td width="40%" style="padding: 0 10px;" href="https://www.eldorado.ru/">
+                            Доставка курьером <d> Москва, ул. Тихая,д.2а,кв.12
+                        </td>
+                    </tr>
+                </mj-table>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#C2002E" padding="0">
+            <mj-column width="540px" background-color="#F3F3F3"  border-radius="0px 0px 10px 10px">
+                <mj-table>
+                    <tr padding="0" >
+                        <td width="10%" style="padding: 0 10px;" href="https://www.eldorado.ru/">
+                        </td>
+                        <td color="#353535" width="40%" style="padding: 0 10px;" href="https://www.eldorado.ru/">
+                            Мы направили sms на номер +7 ХХХ ХХХ ХХ ХХ с подтверждением заказа.
+                        </td>
+                        <td width="10%" style="padding: 0 10px;" href="https://www.eldorado.ru/">
+                        </td>
+                        <td color="#353535" width="40%" style="padding: 0 10px;" href="https://www.eldorado.ru/">
+                            Дата доставки заказа: 25.03.2020 Время: с 09:00 по 22:00
+                        </td>
+                    </tr>
+                </mj-table>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#C2002E" padding="0">
+            <mj-column width="260px">
+                <mj-image padding="0" src=".//png/GIF_2.gif"></mj-image>
+            </mj-column>
+            <mj-column width="20px">
+            </mj-column>
+            <mj-column width="260px">
+                <mj-image padding="0" src=".//png/GIF_3.gif"></mj-image>
             </mj-column>
         </mj-section>
 
@@ -83,10 +175,35 @@
         </mj-section>
 
         <mj-section background-color="#76BC34" padding="0">
-            <mj-column>
-                <mj-image height="19px" src="https://static.eldorado.ru/espa/1.35.32-EJLbpyZgqBcxrlEbFziCi/static_spa/assets/logo.0.107e1872.svg"></mj-image>
+            <mj-column vertical-align="middle" width="30%" padding="0">
+                <mj-image width="160px" padding="0" src=".//png/logo.png"></mj-image>
+            </mj-column >
+            <mj-column vertical-align="middle" width="5%">
+                <mj-image width="21px" padding="0" src=".//png/1.png"></mj-image>
+            </mj-column>
+            <mj-column vertical-align="middle" width="10%">
+                <mj-image width="52px" padding="0" src=".//png/11.png"></mj-image>
+            </mj-column>
+            <mj-column vertical-align="middle" width="5%">
+                <mj-image width="25px" padding="0" src=".//png/2.png"></mj-image>
+            </mj-column>
+            <mj-column vertical-align="middle" width="10%">
+                <mj-image width="52px" padding="0" src=".//png/12.png"></mj-image>
+            </mj-column>
+            <mj-column vertical-align="middle" width="5%">
+                <mj-image width="17px" padding="0" src=".//png/3.png"></mj-image>
+            </mj-column>
+            <mj-column vertical-align="middle" width="10%">
+                <mj-image width="57px" padding="0" src=".//png/13.png"></mj-image>
+            </mj-column>
+            <mj-column vertical-align="middle" width="5%">
+                <mj-image width="23px" padding="0" src=".//png/4.png"></mj-image>
+            </mj-column>
+            <mj-column vertical-align="middle" width="10%">
+                <mj-image width="62px" padding="0" src=".//png/14.png"></mj-image>
             </mj-column>
         </mj-section>
+
         <mj-section background-color="#393E42" padding="0">
             <mj-column>
                 <mj-text color="#8B8E90" align="center">
@@ -104,19 +221,19 @@
                 <mj-table>
                     <tr background-color="#76BC34">
                         <th style="padding: 0 15px 0 0;">
-                            <mj-image height="121px" width="391px" src=".//png/inst.png"></mj-image>
+                            <img  height="13px" src=".//png/inst.png">
                         </th>
                         <th style="padding: 0 15px 0 0;">
-                            <mj-image height="121px" width="391px" src=".//png/face.png"></mj-image>
+                            <img height="13px"  src=".//png/face.png">
                         </th>
                         <th style="padding: 0 15px 0 0;">
-                            <mj-image height="121px" width="391px" src=".//png/inst.png"></mj-image>
+                            <img  height="13px"  src=".//png/odn.png">
                         </th>
                         <th style="padding: 0 15px 0 0;">
-                            <mj-image height="121px" width="391px" src=".//png/inst.png"></mj-image>
+                            <img height="13px"  src=".//png/vk.png">
                         </th>
                         <th style="padding: 0 15px 0 0;">
-                            <mj-image height="121px" width="391px" src=".//png/inst.png"></mj-image>
+                            <img height="13px"  src=".//png/youtube.png">
                         </th>
                     </tr>
                 </mj-table>    
@@ -131,7 +248,6 @@
                 </mj-text>
             </mj-column>
         </mj-section>
-
        
     </mj-body>
 </mjml>
