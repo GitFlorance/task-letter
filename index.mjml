@@ -1,0 +1,130 @@
+<mjml>
+    <mj-head>
+        <mj-title>Test letter</mj-title>
+        <mj-preview>Test letter</mj-preview>
+        <mj-style>
+            
+        </mj-style>
+    </mj-head>
+    <mj-body width="600px" padding="0">
+        <mj-section background-color="white" padding="0">
+            <mj-column width="65%" padding="0">
+                <mj-image href="https://www.eldorado.ru/" src="https://static.eldorado.ru/espa/1.35.32-EJLbpyZgqBcxrlEbFziCi/static_spa/assets/logo.0.107e1872.svg" alt="logo" width="120px" align="left" padding-left="0px"></mj-image>
+            </mj-column>
+            <mj-column  width="12%" padding="0">
+                <mj-image href="https://www.eldorado.ru/personal/club/operations/" height="22px" width="22px"  align="right" src=".//png/user.png"> </mj-image>
+            </mj-column>
+            <mj-column width="12%" padding="0">
+                <mj-image href="https://www.eldorado.ru/d/" height="22px" width="22px" align="right" src=".//png/menu.png"> </mj-image>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#C2002E" padding="0">
+            <mj-column padding="0" width="60%">
+                <mj-image padding="0" padding-top="30px" height="121px" align="left" src=".//png/babble.png">
+                </mj-image>
+            </mj-column>
+            <mj-column padding="0" width="182px">
+                <mj-image padding="0" height="188px" width="182px" align="right" src=".//png/person.png">
+                </mj-image>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#C2002E" padding="0">
+            <mj-column width="540px" background-color="white" border-radius="10px 10px 10px 10px">
+                <mj-table>
+                    <tr background-color="#76BC34" style="border-bottom:1px solid #ecedee;text-align:left;padding:15px 0;">
+                        <th style="padding: 0 15px 0 0;">Товар</th>
+                        <th style="padding: 0 15px 0 0;"></th>
+                        <th style="padding: 0 15px;">Колиство</th>
+                        <th style="padding: 0 0 0 15px;">Стоимость</th>
+                    </tr>
+                    <tr>
+                        <td style="padding: 0 15px 0 0;">
+                        </td>
+                        <td style="padding: 0 15px;">
+                        </td>
+                        <td style="padding: 0 0 0 15px;">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 0 15px 0 0;">1995</td>
+                        <td style="padding: 0 15px;">JavaScript</td>
+                        <td style="padding: 0 0 0 15px;">Scheme, Self</td>
+                    </tr>
+                </mj-table>
+               
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#C2002E" padding="0">
+            <mj-column>
+                <mj-text color="#FFFFFF" align="center">
+                    <h2>Ждем вас снова!</h2>
+                    <p>Ваш Эльдорадо.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section  background-color="#A60229" padding="0">
+            <mj-column>
+                <mj-text color="#FFFFFF" align="center">
+                    <p>Это письмо было отправлено автоматически.</p>
+                    <p>Если вы не создавали заказ на нашем ресурсе, сообщите нам об этом.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#76BC34" padding="0">
+            <mj-column>
+                <mj-image height="19px" src="https://static.eldorado.ru/espa/1.35.32-EJLbpyZgqBcxrlEbFziCi/static_spa/assets/logo.0.107e1872.svg"></mj-image>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#393E42" padding="0">
+            <mj-column>
+                <mj-text color="#8B8E90" align="center">
+                    <p font-size="11px">Звоните</p>
+                </mj-text>
+                <mj-text  color="#8B8E90" align="center">
+                    <p font-size="18px">8 800 250 25 25</p>
+                </mj-text>
+                
+            </mj-column>
+            <mj-column>
+                <mj-text color="#8B8E90" align="center">
+                    <p>Следите за новостями</p>
+                </mj-text>
+                <mj-table>
+                    <tr background-color="#76BC34">
+                        <th style="padding: 0 15px 0 0;">
+                            <mj-image height="121px" width="391px" src=".//png/inst.png"></mj-image>
+                        </th>
+                        <th style="padding: 0 15px 0 0;">
+                            <mj-image height="121px" width="391px" src=".//png/face.png"></mj-image>
+                        </th>
+                        <th style="padding: 0 15px 0 0;">
+                            <mj-image height="121px" width="391px" src=".//png/inst.png"></mj-image>
+                        </th>
+                        <th style="padding: 0 15px 0 0;">
+                            <mj-image height="121px" width="391px" src=".//png/inst.png"></mj-image>
+                        </th>
+                        <th style="padding: 0 15px 0 0;">
+                            <mj-image height="121px" width="391px" src=".//png/inst.png"></mj-image>
+                        </th>
+                    </tr>
+                </mj-table>    
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#393E42" padding="0">
+            <mj-column >
+                <mj-text color="#8B8E90" align="center" align="left">
+                    <p align="left">Вы получили это письмо, так как подписались на рассылку от Эльдорадо. Чтобы не пропускать наши акции и скидки, добавьте адрес eldorado@club.eldorado.ru в адресную книгу.</p>
+                    <p align="left">Цены действительны на момент отправки письма и могут различаться в зависимости от региона покупки.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+       
+    </mj-body>
+</mjml>
